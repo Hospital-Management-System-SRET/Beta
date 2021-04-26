@@ -1,0 +1,33 @@
+.Services {
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+.divstyles{
+    margin-top: 100px;
+    background-color:rgb(208, 227, 242);
+    color:rgb(8, 50, 84);
+    /* padding: 100px; */
+    text-align: center;
+    font-family: sans-serif;
+   
+    
+}
+
+.top{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.h5{
+  color:rgb(120, 183, 227);
+  padding-top: 20px;
+  
+}
+.h2{
+  font-weight: bolder;
+  color:rgb(56, 57, 107)
+}
+.faqgrid{
+  background-color:rgb(245, 248, 252);
+  padding:50px 0 ;
+}

@@ -7,6 +7,7 @@ import Contact from "./pages/Contact/Contact";
 import Infrastructure from "./pages/Infrastructure/Infrastructure";
 import Services from "./pages/Services/Services";
 import Navbar from "./components/Navbar/Navbar";
+import Footer from "./components/Footer";
 
 const MainRouter = () => {
   return (
@@ -20,6 +21,7 @@ const MainRouter = () => {
         <Route exact path="/infrastructure" component={Infrastructure} />
         <Route exact path="/services" component={Services} />
       </Switch>
+      {/* <Footer/> */}
     </div>
   );
 };
